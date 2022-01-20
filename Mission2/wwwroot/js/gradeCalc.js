@@ -1,6 +1,6 @@
 ﻿$("#btnSend").click(function () {
 
-    var a = ($("#assign".val()))
+    var a = ($("#assign").val())
     var g = ($("#group").val())
     var qu = ($("#quiz").val())
     var ex = ($("#exam").val())
